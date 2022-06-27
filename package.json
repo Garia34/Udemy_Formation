@@ -1,0 +1,25 @@
+{
+  "name": "mon_site_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ng serve",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Garia34/formation_gitlab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Garia34/formation_gitlab/issues"
+  },
+  "homepage": "https://gitlab.com/Garia34/formation_gitlab#readme",
+  "dependencies": {
+    "cypress": "^10.2.0"
+  }
+}
